@@ -1,7 +1,8 @@
-# AirBnB Online Experiences Clone
+# Airbnb Online Experiences Clone
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-An AirBnB Online Experiences clone application built in React. This project is a part of a free React course available through [freeCodeCamp](https://www.freecodecamp.org/), created by [Bob Ziroll](https://twitter.com/bobziroll). 
+An Airbnb Online Experiences clone application built in React. This project is a part of a free React course available through [freeCodeCamp](https://www.freecodecamp.org/), created by [Bob Ziroll](https://twitter.com/bobziroll).
 
 Join me in following this course! So far, I can confidently say that I highly recommend it. Bob Ziroll and Scrimba have made it incredibly easy to follow along. You can access the course for free: [Free React Course for 2022](https://www.freecodecamp.org/news/free-react-course-2022/)
 
@@ -22,14 +23,12 @@ Join me in following this course! So far, I can confidently say that I highly re
 [![HTML5](https://img.shields.io/badge/HTML5-orange)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [![CSS3](https://img.shields.io/badge/CSS3-blue)](https://www.w3.org/TR/CSS/)
 
-
-
 ## Application Demo
 
 ## Contributing
 
 This project is not currently available for contribution.
-  
+
 ## Project Links
 
 Github Repository: https://github.com/that-devguy/airbnb-experiences-clone/
@@ -43,4 +42,3 @@ See [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https
 ## Questions
 
 If you have any questions or issues, feel free to reach out to me via my GitHub profile: [that_devguy](https://github.com/that_devguy) or email me at zkmutch@gmail.com.
-
