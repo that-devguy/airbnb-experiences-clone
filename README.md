@@ -25,6 +25,8 @@ Join me in following this course! So far, I can confidently say that I highly re
 
 ## Application Demo
 
+![Airbnb Online Experiences Clone Demo](./public/images/airbnb-experiences-clone-demo.JPG)
+
 ## Contributing
 
 This project is not currently available for contribution.
