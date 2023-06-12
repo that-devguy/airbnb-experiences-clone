@@ -1,13 +1,14 @@
 import "./App.css";
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
+import Card from "./components/Card";
 
 function App() {
   return (
     <div className="app--container">
       <Navbar />
       <Hero />
-      <h1>Airbnb Experiences Clone</h1>
+      <Card />
     </div>
   );
 }
